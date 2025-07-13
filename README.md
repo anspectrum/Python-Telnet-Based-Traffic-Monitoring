@@ -102,7 +102,7 @@ The script will display a live graph with:
 
  
 ## Screenshot
-![Sample Traffic Graph](images/screenshot.png)
+![Sample Traffic Graph](images/screenshot1.png)
 
 Notes:
 
