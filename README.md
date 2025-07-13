@@ -62,7 +62,7 @@ Usage:
 
     Run the Script:
 
-    python3 tenda_traffic_monitor.py
+    python3 graph.py
 
     View the Graph:
 
@@ -102,7 +102,7 @@ The script will display a live graph with:
 
  
 ## Screenshot
-![Live Traffic Graph](images/screenshot.png)
+![Sample Traffic Graph](images/screenshot.png)
 
 Notes:
 
